@@ -1,0 +1,30 @@
+{
+  "login": "krishna976762",
+  "id": 97676201,
+  "node_id": "MDQ6VXNlcjk3Njc2MjAx",
+  "avatar_url": "https://avatars.githubusercontent.com/u/97676201?v=4",
+  "html_url": "https://github.com/krishna976762",
+  "followers_url": "https://api.github.com/users/krishna976762/followers",
+  "following_url": "https://api.github.com/users/krishna976762/following{/other_user}",
+  "repos_url": "https://api.github.com/users/krishna976762/repos",
+  "type": "User",
+  "site_admin": false,
+
+  "name": "Krishna Bokefod",
+  "company": "Frontend Engineer",
+  "blog": "https://krishnabokefod.dev",
+  "location": "India",
+  "email": "krishnabokefod@gmail.com",
+  "hireable": true,
+  "mobile":"97676228076",
+
+  "bio": "Frontend Engineer | React | Web Security | Performance | Learning how the web really works",
+
+  "public_repos": 20,
+  "public_gists": 0,
+  "followers": 0,
+  "following": 0,
+
+  "created_at": "2020-01-01T00:00:00Z",
+  "updated_at": "2026-01-21T00:00:00Z"
+}
